@@ -16,6 +16,7 @@
 		C27D20D71E1FC39E00FE47B8 /* RetroCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27D20D61E1FC39E00FE47B8 /* RetroCalculatorUITests.swift */; };
 		C27D20E61E1FE2C100FE47B8 /* Minecrafter.Alt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C27D20E41E1FE2C100FE47B8 /* Minecrafter.Alt.ttf */; };
 		C27D20E71E1FE2C100FE47B8 /* Minecrafter.Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C27D20E51E1FE2C100FE47B8 /* Minecrafter.Reg.ttf */; };
+		C27D20E91E1FEB8200FE47B8 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = C27D20E81E1FEB8200FE47B8 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C27D20D81E1FC39E00FE47B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C27D20E41E1FE2C100FE47B8 /* Minecrafter.Alt.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecrafter.Alt.ttf; sourceTree = "<group>"; };
 		C27D20E51E1FE2C100FE47B8 /* Minecrafter.Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecrafter.Reg.ttf; sourceTree = "<group>"; };
+		C27D20E81E1FEB8200FE47B8 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = btn.wav; path = ../btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				C27D20E41E1FE2C100FE47B8 /* Minecrafter.Alt.ttf */,
+				C27D20E81E1FEB8200FE47B8 /* btn.wav */,
 				C27D20E51E1FE2C100FE47B8 /* Minecrafter.Reg.ttf */,
 				C27D20B61E1FC39E00FE47B8 /* AppDelegate.swift */,
 				C27D20B81E1FC39E00FE47B8 /* ViewController.swift */,
@@ -241,6 +244,7 @@
 				C27D20C11E1FC39E00FE47B8 /* LaunchScreen.storyboard in Resources */,
 				C27D20BE1E1FC39E00FE47B8 /* Assets.xcassets in Resources */,
 				C27D20E61E1FE2C100FE47B8 /* Minecrafter.Alt.ttf in Resources */,
+				C27D20E91E1FEB8200FE47B8 /* btn.wav in Resources */,
 				C27D20BC1E1FC39E00FE47B8 /* Main.storyboard in Resources */,
 				C27D20E71E1FE2C100FE47B8 /* Minecrafter.Reg.ttf in Resources */,
 			);
